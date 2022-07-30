@@ -32,6 +32,6 @@ Install dependencies
 Start the server
 
 ```bash
-  npm server.js
+  node server.js
 ```
 
