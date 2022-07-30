@@ -1,13 +1,18 @@
-# bmi-calculator
-bmi calculator with back-end impementation
 
-if want to access this project 
+# Bmi Calculator
 
-1.fork project in you local repo.
+project with backend implementation of the bmi Calculator
 
-2.open cmd or git-bash.
+sorry about boring front end 😜 (will improve in future)
 
-3.go into place where you saved this project repo through cmd.
 
-4.type *npm i* for downloading all the node packages that i downloaded
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm i
+```
+in your cmd 
