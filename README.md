@@ -8,11 +8,30 @@ sorry about boring front end 😜 (will improve in future)
 
 
 
-## Deployment
 
-To deploy this project run
+## Run Locally
+
+Clone the project
 
 ```bash
-  npm i
+  git clone https://link-to-project
 ```
-in your cmd 
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm server.js
+```
+
